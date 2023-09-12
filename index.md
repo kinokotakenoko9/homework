@@ -14,4 +14,4 @@ layout: default
  
 # projects
  
-e.g. website for one game community: Lkk9/pngToMsav
+- e.g. website for one game community: Lkk9/pngToMsav
